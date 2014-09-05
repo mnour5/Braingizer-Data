@@ -122,4 +122,11 @@
    Left(Left Hand), Right(Mathmatical Op) &amp; Neutral
   </Description>
  </TrainingSession>
+ <TrainingSession Name="Session_2014_09_01_81148">
+  <TimingOptions BlankTime="2" NumberOfTrials="15" SteadyTime="1" TrainingTime="2"/>
+  <TrainingClasses BACK="False" FORWARD="True" LEFT="True" NEUTRAL="True" RIGHT="True"/>
+  <Description>
+   Right(Right brow), Left(Left brow) &amp; Forward(Gz)
+  </Description>
+ </TrainingSession>
 </List>
